@@ -21,7 +21,7 @@ repository               : "angelazhu2/angelazhu2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   name             : "Angela Zhu"
   pronouns         : # example: "she/her"  
   bio              : "Master's student at UMass Amherst interested in Computational Sustainability."
