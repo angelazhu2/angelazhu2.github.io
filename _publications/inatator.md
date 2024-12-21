@@ -8,8 +8,10 @@ excerpt: 'Expert-in-the-loop platform to collect species data and improve specie
 Project was apart of the Data Science for the Common Good Program at UMass Amherst in collaboration with UMass Researchers (Prof. Grant Van Horn and Prof. Subhransu Maji), University of Edinburgh researchers (Prof Oisin Mac Aodha, Christian Lange), eBird engineer (Sam Heinrich) and iNaturalist engineer (Alex Shepard).'
 date: 2024-9-18
 venue: 'Center for Data Science and New England Computer Vision (NECV) Workshop'
-slidesurl: '/files/ds4cg-inat-poster.pdf'
-paperurl: 'https://www.youtube.com/watch?v=5KFIZr_pxLc'
+#slidesurl: '/files/ds4cg-inat-poster.pdf'
+pageurl: 'https://ds.cs.umass.edu/projects/inaturalist-geomodel-annotation-tool'
+videourl: 'https://www.youtube.com/watch?v=5KFIZr_pxLc'
+codeurl: 'https://github.com/UMassCDS/inatator'
 citation: 'Angela Zhu, Paula Navarrete, Sergei Pogorelov, Ozel Yilmazel, Virginia Partridge. (2024). iNaturalist Geomodel Annotation Tool. Center for Data Science at UMass Amherst.'
 ---
 
