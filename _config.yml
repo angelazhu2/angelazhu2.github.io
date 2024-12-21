@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master's student at UMass Amherst interested in Computational Sustainability."
   location         : "Amherst, MA"
-  employer         : "UMass Amherst"
+  employer         : #"UMass Amherst"
   uri              : # URL
   email            : "azhu@umass.edu" 
 
