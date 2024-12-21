@@ -1,7 +1,8 @@
 ---
 title: "DS4CG iNaturalist Geomodel Annotation Tool"
 collection: publications
-permalink: /publication/inatator.md
+category: manuscripts
+permalink: /publication/inatator
 excerpt: 'Expert-in-the-loop platform to collect species data and improve species distribution model accuracy. Developed and deployed a web application that enables experts to annotate species range maps using predictions from the SINR GeoModel- ML-based range prediction model to refine species distributions. \ \
 Project was apart of the Data Science for the Common Good Program at UMass Amherst in collaboration with UMass Researchers (Prof. Grant Van Horn and Prof. Subhransu Maji), University of Edinburgh researchers (Prof Oisin Mac Aodha, Christian Lange), eBird engineer (Sam Heinrich) and iNaturalist engineer (Alex Shepard).'
 date: 2024-9-18
