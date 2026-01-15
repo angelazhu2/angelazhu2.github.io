@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Investigating Different Geo Priors for Image Classification"
 collection: publications
 category: manuscripts
 permalink: /publication/sinr_geoprior
