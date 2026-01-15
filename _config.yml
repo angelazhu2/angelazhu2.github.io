@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Angela Zhu"
 title_separator          : "-"
 name                     : &name "Angela Zhu"
-description              : &description "Master's student at UMass Amherst interested in computational sustainability."
+description              : &description "PhD student at OSU interested in computational sustainability."
 url                      : https://angelazhu2.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "angelazhu2/angelazhu2.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "me.jpg"
   name             : "Angela Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student in CICS at UMass Amherst."
-  location         : "Amherst, MA"
+  bio              : "PhD student at OSU"
+  location         : "Corvallis, MA"
   employer         : #"UMass Amherst"
   uri              : # URL
-  email            : "azhu@umass.edu" 
+  email            : "amzhu22@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

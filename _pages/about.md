@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently applying to PhD programs in CS hoping to apply machine learning to biodiversity and wildlife conservation, more specifically using computer vision to identify species and species distribution models.
+I am a PhD student in Artificial Intelligence at Oregon State University in the [MLQUeST Lab](https://hutchinson-lab.github.io/), advised by Prof [Rebecca A. Hutchinson](https://web.engr.oregonstate.edu/~rah/). I'm interested in applying machine learning to biodiversity and wildlife conservation, more specifically in species distribution models and using computer vision to identify species.
 
-Previously, I received my BS from the University of Illinois, Urbana-Champaign. Afterwards I worked in industry as a backend software engineer at Microsoft for 5 years before starting my Master's program at UMass Amherst. At UIUC, I gained an appreciation for the midwest and built a foundation in computer science. Then at Microsoft I developed my technical skills in developing systems. Now at my graduate program I am exploring research at the intersection of computer science and ecology, though a research project on species distribution models extending the work from [SINR GeoModel](https://arxiv.org/abs/2306.02564) paper.
+Before my PhD, I obtained my Master's degree from UMass Amherst where I got to work with Prof [Subhransu Maji](https://people.cs.umass.edu/~smaji/index.html) and Prof [Grant Van Horn](https://gvh.codes/) on building species distribution models using citizen science data. Prior to that I worked in industry as a software engineer. 
 
 Research Interests: Computational Sustainability and Public Interest Technology.
 
 Hobbies: Biking, Running, Spotting Wildlife, and Listening to Podcasts.
+
+
+News:  
+*09/25* Started AI Phd program at Oregon State University.  
+*05/25* Co-Authored [Feedforward Few-shot Species Range Estimation](https://arxiv.org/abs/2502.14977) work that was presented at ICML! Congrats Chris!  
