@@ -3,7 +3,7 @@ title: "DS4CG iNaturalist Geomodel Annotation Tool"
 collection: publications
 category: manuscripts
 permalink: /publication/inatator
-excerpt: 'Expert-in-the-loop platform to collect species data and improve species distribution model accuracy. Developed and deployed a web application that enables experts to annotate species range maps using predictions from the SINR GeoModel- ML-based range prediction model to refine species distributions. <br><br>
+excerpt: 'Expert-in-the-loop platform to collect species data and improve species distribution model accuracy. Developed and deployed a web application that enables experts to annotate species range maps using predictions from the SINR GeoModel- ML-based range prediction model to refine species distributions.
 Project was apart of the Data Science for the Common Good Program at UMass Amherst in collaboration with UMass Researchers Prof. Grant Van Horn and Prof. Subhransu Maji. <br><br>
 
 [post](https://ds.cs.umass.edu/projects/inaturalist-geomodel-annotation-tool)
