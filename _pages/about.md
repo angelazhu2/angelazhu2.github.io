@@ -15,12 +15,9 @@ Before my PhD, I obtained my Master's degree from UMass Amherst where I got to w
 **Hobbies**: Biking, Running, Spotting Wildlife, and Listening to Podcasts.
 
 
-### News
-
-| | |
-|---|---|
-| *06/26* | Completed my first year of my PhD program. Learning a lot about bayesian statistical modeling and probablistic graphical models! |
-| *04/26* | Presented a poster at the Confluence symposium hosted by the FWCS dept. at OSU on [Exploring MCMC for N-Mixture Models](../_publications/nmixture.md). And I had a lovely time attending the Imageomics Conference at Ohio State Univeristy. |
-| *09/25* | Started AI Phd program at Oregon State University. |
-| *06/25* | Presented poster for ["Investigating Different Geo Priors for Image Classification"](../_publications/sinr_geoprior.md) at the [FGVC workshop](https://sites.google.com/view/fgvc12) at CVPR. |
-| *05/25* | Co-Authored [Feedforward Few-shot Species Range Estimation](https://arxiv.org/abs/2502.14977) work that was presented at ICML. Congrats [Chris](https://chris-lange.github.io/)! |
+### News:  
+*06/26* Completed my first year of my PhD program. Learning a lot about bayesian statistical modeling and probablistic graphical models! \
+*04/26* Presented a poster at the Confluence symposium hosted by the FWCS dept. at OSU on [Exploring MCMC for N-Mixture Models](../_publications/nmixture.md). And I had a lovely time attending the Imageomics Conference at Ohio State Univeristy. \
+*09/25* Started AI Phd program at Oregon State University. \
+*06/25* Presented poster for ["Investigating Different Geo Priors for Image Classification"](../_publications/sinr_geoprior.md) at the [FGVC workshop](https://sites.google.com/view/fgvc12) at CVPR. \
+*05/25* Co-Authored [Feedforward Few-shot Species Range Estimation](https://arxiv.org/abs/2502.14977) work that was presented at ICML. Congrats [Chris](https://chris-lange.github.io/)!
